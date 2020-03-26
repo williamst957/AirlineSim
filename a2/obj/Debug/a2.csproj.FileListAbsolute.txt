@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\a2\a2\bin\Debug\a2.exe.config
+C:\Users\User\source\repos\a2\a2\bin\Debug\a2.exe
+C:\Users\User\source\repos\a2\a2\bin\Debug\a2.pdb
+C:\Users\User\source\repos\a2\a2\obj\Debug\a2.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\a2\a2\obj\Debug\a2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\a2\a2\obj\Debug\a2.exe
+C:\Users\User\source\repos\a2\a2\obj\Debug\a2.pdb
+D:\a2\a2\bin\Debug\a2.exe.config
+D:\a2\a2\bin\Debug\a2.exe
+D:\a2\a2\bin\Debug\a2.pdb
+D:\a2\a2\obj\Debug\a2.csprojAssemblyReference.cache
+D:\a2\a2\obj\Debug\a2.csproj.CoreCompileInputs.cache
+D:\a2\a2\obj\Debug\a2.exe
+D:\a2\a2\obj\Debug\a2.pdb
